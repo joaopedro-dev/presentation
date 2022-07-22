@@ -54,12 +54,12 @@ function Presentation() {
                         Management Professional.</p>
 
                     <h1 className={styles.title_content}>EQUIPES E DISCIPLINA</h1>
-                    <p>"Meu modelo de negócio é como os Beatles. Eles eram quatro
+                    <p>`&quot;`Meu modelo de negócio é como os Beatles. Eles eram quatro
                         caras que conseguiam controlar as tendências negativas um
                         do outro, eles equilibravam um ao outro. E na minha visão as
                         grandes coisas em termos de negócios nunca são feitas por
                         uma pessoa só. São feitas por uma equipe de pessoas, cada
-                        um com as suas indivialidades" - Steve Jobs</p>
+                        um com as suas indivialidades`&quot;` - Steve Jobs</p>
                     <p>E Jobs realmente estava correto, o papel do
                         gestor vai ser justamente identificicar, conduzir e harmonizar as individualidades
                         do time, trazendo a evolução e retorno a todos os stakeholders do projeto, se
